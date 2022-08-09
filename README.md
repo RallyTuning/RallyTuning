@@ -29,8 +29,8 @@ I'm Gianluigi, an Italian <img src="https://icons.iconarchive.com/icons/custom-i
 </div>
 
 ## 🌍 Connect with me
-[![Web](https://img.shields.io/badge/-Web-990073?style=flat-square&logo=earth&logoColor=white)](https://capozzoli.me)
-[![Disactive](https://img.shields.io/badge/-Disactive-ff0000?style=flat-square&logo=briefcase&logoColor=white)](https://disactive.com)
+[![Web](https://img.shields.io/badge/-Web-990073?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABT0lEQVR42o3TSyiEURjG8e+LrGRlyYJSytosRKJcktm5Zi0WRFFsxgKRkohSkyW57kYSRXJZjLWykISllaxE43/qmTrevomvfotz3jPPnGsYRH91aEK52o84xaUdGJp2DFMa+I529R+iSMHTSEcFdCGOYZRgBn2qbSGBV6wihT0/wP3zEp7V14AzM7tGnCODUoy5mWQD3BR78IFWVGLZBIziHscoxI5bYqh11WBBAzcwiTcTUIx59Ks9gZtQm7KLOxX20ZnjdPxaFbpdwCZO8KnCCFZyBPi1AjRnA1JewDgWcwT4NRcQj1rCgaaZMT8OtYQOuwS7iQnt9K0JqEYLZtV2G30ddYxlKg6YgCTm8GSP0X0xbc6Lpl6PK3yrnodaXGgp7qa6e5G2V7kNQ8jHdvD7KvfiC2s4CsxVDryZZB/TAwbVv46K4I/H5H//fs4/PEVS12O4PygAAAAASUVORK5CYII=&logoColor=white)](https://capozzoli.me)
+[![Disactive](https://img.shields.io/badge/-Disactive-ff0000?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAlElEQVR42mNkwA1Egdgeyj4IxK+xKWLEodkHiFOAeBWUHwbEc4B4CzYDPIBYH008CYgXAvFfKJ8ZiOOBeB6auosgA3YDcQ0DeaAFZMByII4k04Dlw9wAGyDOgbKnAPERXAY8A+KTWCQNgNgEyj4DxBewqDHH54IoKAaBZVA8xAKRaAP2A3EHmQZUgAywAGJ1Mg24CQDa+CTQCtXRlgAAAABJRU5ErkJggg==&logoColor=white)](https://disactive.com)
 [![Discord](https://img.shields.io/badge/-Tyler%234717-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/dUZs6s66Xq)
 [![Steam](https://img.shields.io/badge/-Steam-262626?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198005061122)
 
