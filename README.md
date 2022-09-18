@@ -15,24 +15,14 @@ I'm Gianluigi, an Italian <img src="https://icons.iconarchive.com/icons/custom-i
 
 ## 🛠 Tools
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/visualstudio/visualstudio-plain.svg" width="16" /> Visual Studio
-  <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/vscode/vscode-original.svg" width="16" /> Visual Studio Code
-</div>
-
-## 🖥 Languages
-<div>
-  <img src="https://img1.gratispng.com/20180803/qeo/kisspng-visual-basic-net-c-computer-programming-net-fra-microsoft-azure-selectpdf-com-5b6461828a2386.1784658315333052185658.jpg" width="16" /> VB .NET ▫ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="16" /> C# ▫ <img src="https://www.clipartkey.com/mpngs/m/83-833131_microsoft-sql-server-logo-png-microsoft-sql-server.png" width="16" /> MSSQL
-</div>
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="16" /> PHP ▫ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" width="16" /> HTML5 ▫ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" width="16" /> CSS3 ▫ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="16" /> JavaScript ▫ <img src="http://technotes.marziocarro.com/wp-content/uploads/sites/4/2014/07/mysql-logo.png" width="16" /> MySQL
+  <img src="https://img.shields.io/badge/Visual%20Studio%202022-3f3f3f?style=for-the-badge&logo=visualstudio&logoColor=violet" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-3f3f3f?style=for-the-badge&logo=visualstudiocode&logoColor=blue" />
 </div>
 
 ## 🌍 Connect with me
-[![Web](https://flat.badgen.net/badge/🌍%20/Website)](https://capozzoli.me)
-[![Disactive](https://flat.badgen.net/badge/💼%20/Disactive/red)](https://disactive.com)
-[![Discord](https://img.shields.io/badge/-Tyler%234717-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/dUZs6s66Xq)
-[![Steam](https://img.shields.io/badge/-Steam-262626?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198005061122)
+[![Web](https://img.shields.io/badge/Website-3f3f3f?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAMtSURBVDjLVZNLa1xlAIafc5szk8xkMkkm5MKY2EpT2qa2MTVCmoLS2gq6EKooimAW7iQb/0I2bgTRIog0oFW7KQpCS7VqrSmmJGlSQtswqWlLLmbGmcmcZM6cy/edz00r6bt8eXh4N6+mlGJnxiZHR4APgSNAFjCBKjClInXm05Gzl3by2mPB2OSoCUwAp1/LHbcziSyO24gbgJAegg2urF8UUsifhZBvfvXK99v/C8YmRy3gt8G2/cMv517E8Wx8ApYcjZiyKbkRSgQkcFn3rzG9Nn1LhOLYt2/8UNUfLZkYaN0zfLRrkLIMCHUNIXTqIoZLjLJvU/ASrFQtnko+z2BH38HAD78DMConHh4FPn5nz6vGgqyxTp16JNj2kpR9C8eD/OoW1VoNO1NCS+d5oW0vV27f2PX11MS8MTR6+JOTXUMHNCPBui5AtdMpk8xsGNQ9ndur20TxCnbPIn5TnmJUwaxIDrTm9Jn7d1tM4EiuqZs5d41iXGefsZsIwYNCgOfVSXconJbLLEWb4CuahU2+6HO8d4DQF/0m0NpgNvLAXaPgu6QadrEZpKhUItJZj/aMS1EewvHnsdUWW/+WKG82kEykCAPRbCqlNE1B4DsocpiW5OJfIVoiyfqSQFdNdGXrpLZGcFZDPKYJg2VQCiGEZkoRlZ3A6W41mknFn2WlaOKFFrG4Tbw9wb2/S3g3miHySLdbNDd2kzYKVGpVpIiqugjF7P3yQ55pyLFWmCSyVokZPqHnEoYmsWQGuyWOGdexNIkRFOnqbGN5bRngjh4G4rMLd6+KnmQW012lWrpOJuNjCh9LU9i6gRkEZHIrpNv/QK8vcijXz5lfLijgS+PmuYV75+fPDXr1Wt9znfsouy5x+2miuoltW1iawBJV0o0/wT8lBvbv5WZ+gaWNlasz43MfmQChH777e37uT78eHDx5+BiLBROjqhDaFmGkQ1KS6+mlr7+XX2evc+nWVB54+4kznfr8pZQIxXkRyhPvDb9vIjtQqgFN12hLO2yUZ/ni8o8SuAa8NTM+t/GE4HGGx4del0J+IGXUH8ko86iuAneAszPjc9/s5P8DuO6ZcsXuRqAAAAAASUVORK5CYII=)](https://capozzoli.me)
+[![Discord](https://img.shields.io/badge/Discord-3f3f3f?style=for-the-badge&logo=discord)](https://discord.gg/dUZs6s66Xq)
+[![Steam](https://img.shields.io/badge/Steam-3f3f3f?style=for-the-badge&logo=steam)](https://steamcommunity.com/profiles/76561198005061122)
 
 <!--
 **RallyTuning/RallyTuning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
