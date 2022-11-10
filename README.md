@@ -23,7 +23,7 @@
 <br/>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rallytuning&layout=compact&langs_count=6&card_width=150&hide_title=true&theme=radical" height="150px" />
-  <img align="center" src="https://github.com/RallyTuning/RallyTuning/blob/main/tree.gif" />
+  <img align="center" src="https://github.com/RallyTuning/RallyTuning/blob/main/tree.gif" height="150px" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RallyTuning&show_icons=true&card_width=150&hide_title=true&include_all_commits=true&theme=radical" height="150px" />
 </div>
 
