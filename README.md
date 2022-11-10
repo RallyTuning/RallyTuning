@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  🔭 I’m currently working on omething cool
+  🔭 I’m currently working on something cool
   <br />
   🌱 I’m currently learning C# (was a VB. Net Veteran)
   <br />
