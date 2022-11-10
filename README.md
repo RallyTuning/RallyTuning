@@ -22,7 +22,7 @@
 
 <br/>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rallytuning&layout=compact&langs_count=6&hide_title=true&theme=radical" width="400px" height="165px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rallytuning&layout=compact&langs_count=6&hide_title=true&theme=radical" width="400px" height="134px"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RallyTuning&show_icons=true&hide_title=true&include_all_commits=true&theme=radical" width="400px" />
 </div>
 
