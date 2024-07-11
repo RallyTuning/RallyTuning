@@ -2,7 +2,7 @@
 <img src="https://github.com/RallyTuning/RallyTuning/blob/main/dBaSKWF.gif" height="30" width="100%">
 
 <p>I'm Gianluigi, an Italian <img src="https://icons.iconarchive.com/icons/custom-icon-design/flat-europe-flag/32/Italy-icon.png" width="13" /> guy born in the far 1988.<br/>Passionate Web 🌍 developer since 2005 and Desktop developer 💾 since 2009 but also a Gamer 👾 since <i>i have memory</i>.</p>
-<p>👨‍💻 VB .Net and C# .Net 6.0+ enthusiast, I’m currently working on something cool and I’m looking to collaborate on anything catch my interest. Especially .Net 6/7/8 and MAUI. 📱</p>
+<p>👨‍💻 VB .Net and C# .Net 8.0+ enthusiast, I’m currently working on something cool and I’m looking to collaborate on anything catch my interest. Especially .Net 8+ and MAUI. 📱</p>
 </div>
 
 ### 🌍 Connect with me
