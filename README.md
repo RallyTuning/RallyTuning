@@ -15,8 +15,8 @@
 
 <br/>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rallytuning&layout=compact&langs_count=6&hide_title=true&theme=radical" width="400px" height="134px"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RallyTuning&show_icons=true&hide_title=true&include_all_commits=true&theme=radical" width="400px" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=rallytuning&show_icons=true&hide_rank=true&theme=radical&include_all_commits=true&hide=contribs" width="400px" height="188px"/>
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RallyTuning&layout=compact&theme=radical&include_all_commits=true" width="400px" height="188px" />
 </div>
 
 <p align="left">
